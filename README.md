@@ -1,4 +1,4 @@
-# easytransfer
+# easytransfer (OLD. New repo in https://github.com/ivanrg99/easytransfer)
 Easily transfer files in a local network over http. Multiplatform
 You need to have the server open in both machines.
 
